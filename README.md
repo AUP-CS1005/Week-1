@@ -11,7 +11,7 @@
 
 ## Material
 
-[](Slides)
+[slides.pdf](Slides)
 [](Khan Academy) - You can progress at your own speed but try at least
 to finish the section about ""
 [](Exercise) - is due until ..
